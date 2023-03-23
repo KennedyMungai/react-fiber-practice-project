@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { close, menu } from '../assets'
+import { close, menu, logo } from '../assets'
 import { navLinks } from '../constants'
 import { styles } from '../style'
 
@@ -23,7 +23,9 @@ const Navbar = () =>
             window.scrollTo(0, 0)
           }}
         >
-
+          <img
+            src={logo}
+          />
         </Link>
       </div>
     </nav>
