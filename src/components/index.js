@@ -9,6 +9,7 @@ import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import Loader from "./Loader";
 
+
 export
 {
   Hero,
