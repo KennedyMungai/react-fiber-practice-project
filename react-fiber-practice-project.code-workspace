@@ -5,6 +5,17 @@
     }
   ],
   "settings": {
-    "cSpell.words": ["herobg", "tailwindcss"]
+    "cSpell.words": [
+      "carrent",
+      "herobg",
+      "jobit",
+      "nextjs",
+      "reactjs",
+      "restapi",
+      "supabase",
+      "tailwindcss",
+      "threejs",
+      "tripguide"
+    ]
   }
 }
