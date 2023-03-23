@@ -29,6 +29,11 @@ const Navbar = () =>
               alt="The logo for the page"
               className="w-9 h-9 object-contain"
             />
+            <p
+              className='text-white text-[18px] font-bold cursor-pointer'
+            >
+              Kennedy <span className='sm:block hidden' >| Tinkerer</span>
+            </p>
           </div>
         </Link>
       </div>
