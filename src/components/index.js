@@ -8,6 +8,7 @@ import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import Loader from "./Loader";
+import StarsCanvas from "./canvas/Stars";
 
 
 export
@@ -21,5 +22,6 @@ export
   Feedbacks,
   Contact,
   CanvasLoader,
-  Loader
+  Loader,
+  StarsCanvas
 }

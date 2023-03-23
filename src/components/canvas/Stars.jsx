@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Stars = () =>
+const StarsCanvas = () =>
 {
   return (
     <div>Stars</div>
   )
 }
 
-export default Stars
+export default StarsCanvas
