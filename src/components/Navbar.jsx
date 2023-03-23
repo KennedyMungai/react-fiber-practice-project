@@ -17,7 +17,10 @@ const Navbar = () =>
         <Link
           to='/'
           className='flex items-center gap-2 '
-          onClick={() => setActive("")}
+          onClick={() => 
+          {
+            setActive("")
+          }}
         >
 
         </Link>
