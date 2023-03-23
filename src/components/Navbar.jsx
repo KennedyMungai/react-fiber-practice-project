@@ -23,14 +23,17 @@ const Navbar = () =>
             window.scrollTo(0, 0)
           }}
         >
-          <img
-            src={logo}
-            alt="The logo for the page"
-          />
+          <div className="w-9 h-9">
+            <img
+              src={logo}
+              alt="The logo for the page"
+              className="w-9 h-9 object-contain"
+            />
+          </div>
         </Link>
       </div>
     </nav>
-  )
+  );
 }
 
 export default Navbar
