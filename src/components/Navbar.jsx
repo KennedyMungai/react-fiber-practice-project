@@ -9,7 +9,11 @@ import { styles } from '../style'
 const Navbar = () =>
 {
   return (
-    <div>Navbar</div>
+    <nav
+      className={`${styles.paddingX}`}
+    >
+
+    </nav>
   )
 }
 
