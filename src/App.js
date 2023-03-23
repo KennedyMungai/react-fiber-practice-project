@@ -28,6 +28,11 @@ function App()
           <Navbar />
           <Hero />
         </div>
+        <About />
+        <Experience />
+        <Tech />
+        <Works />
+        <Feedbacks />
       </div>
     </Router>
   );
