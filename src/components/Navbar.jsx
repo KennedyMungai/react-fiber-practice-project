@@ -25,6 +25,7 @@ const Navbar = () =>
         >
           <img
             src={logo}
+            alt="The logo for the page"
           />
         </Link>
       </div>
