@@ -1,6 +1,9 @@
-import EarthCanvas from "./Earth";
-import BallCanvas from "./Ball";
-import ComputersCanvas from "./Computers";
-import StarsCanvas from "./Stars";
+import React from 'react'
 
-export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas };
+const index = () => {
+  return (
+    <div>index</div>
+  )
+}
+
+export default index
